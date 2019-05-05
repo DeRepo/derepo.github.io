@@ -1,0 +1,9 @@
+[
+  {
+    "name": "DiscordUnlocked",
+    "identifier": "com.derepo.discordunlocked",
+    "version": "0.0.1",
+    "description": "Customize your Discord app!",
+    "ios": "12.x"
+  }
+]
