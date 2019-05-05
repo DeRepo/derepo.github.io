@@ -1,0 +1,78 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/eS4IxK3.png",
+  "tintColor": "#7289DA",
+  "tabs": [{
+    "tabname": "Details",
+    "views": [{
+      "title": "Discord reimagined.",
+      "useBoldText": true,
+      "useBottomMargin": false,
+      "class": "DepictionSubheaderView"
+    },
+    {
+      "markdown": "DiscordUnlocked",
+      "useSpacing": true,
+      "class": "DepictionMarkdownView"
+    }, {
+      "class": "DepictionSeparatorView"
+    }, {
+      "title": "Latest Version",
+      "class": "DepictionHeaderView"
+    }, {
+      "title": "Version",
+      "text": "1.0.14",
+      "class": "DepictionTableTextView"
+    }, {
+      "title": "Released",
+      "text": "Soon",
+      "class": "DepictionTableTextView"
+    }, {
+      "title": "Price",
+      "text": "Free",
+      "class": "DepictionTableTextView"
+    }, {
+      "class": "DepictionSeparatorView"
+    }, {
+      "title": "Website",
+      "action": "https://derepo.github.io",
+      "class": "DepictionTableButtonView"
+    }, {
+      "spacing": 12,
+      "class": "DepictionSpacerView"
+    }, {
+      "title": "Developer",
+      "text": "DocyodaX (DeRepo)",
+      "class": "DepictionTableTextView"
+    }, {
+      "title": "Contact Developer",
+      "action": "depiction-https://twitter.com/docyodax",
+      "class": "DepictionTableButtonView"
+    }, {
+      "spacing": 12,
+      "class": "DepictionSpacerView"
+    }, {
+      "spacing": 20,
+      "class": "DepictionSpacerView"
+    }],
+    "class": "DepictionStackView"
+  }, {
+    "tabname": "Changelog",
+    "views": [{
+      "title": "Version 0.0.1",
+      "useBoldText": true,
+      "useBottomMargin": true,
+      "class": "DepictionSubheaderView"
+    }, {
+      "markdown": "Release!",
+      "useSpacing": false,
+      "class": "DepictionMarkdownView"
+    }, {
+      "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 5/4/19</small>",
+      "useRawFormat": true,
+      "class": "DepictionMarkdownView"
+    }],
+    "class": "DepictionStackView"
+  }],
+  "class": "DepictionTabView"
+}
