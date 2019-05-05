@@ -1,17 +1,17 @@
 Package: com.derepo.discordunlocked
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: DocyodaX
 Installed-Size: 104
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.derepo.discordunlocked_0.0.1-1+debug_iphoneos-arm.deb
-Size: 1736
-MD5sum: 0a2ec189b4108959522dc3f57fd2bf49
-SHA1: aff2622135e0e33901e26e196799d525d33f72f7
-SHA256: 6eed2c769c313447031a3bb11dad7cb1206e073da19c9933b91b139be0939e54
+Filename: ./debs/com.derepo.discordunlocked_0.0.1-2+debug_iphoneos-arm.deb
+Size: 1750
+MD5sum: 9c962377be5d2ff2c035f1c42b261506
+SHA1: 3aa3389ef5883d85f40ca1a10679101c11702db7
+SHA256: c720178ed8a1aff62483959fe04d84277fbced604ccff5aa3533762ccf521331
 Section: Tweaks
 Description: Customize your Discord app!
 Author: DocyodaX
 Depiction: https://derepo.github.io/depictions?p=com.derepo.discordunlocked
-SileoDepiction: https://derepo.github.io/sileo-depictions/discordunlocked.json
 Name: DiscordUnlocked
+Sileodepiction: https://derepo.github.io/sileo-depictions/discordunlocked.json
